@@ -164,7 +164,8 @@ loss_df.plot()
 
 ### Training Loss Vs Iteration Plot
 
-![image](https://github.com/Revathi-Dayalan/basic-nn-model/assets/96000574/3ebffeea-ac94-4363-9001-264da1de90fb)
+![image](https://github.com/Revathi-Dayalan/basic-nn-model/assets/96000574/c36c09b7-b8a1-454f-8090-7bfec62eda44)
+
 
 
 ### Test Data Root Mean Squared Error
