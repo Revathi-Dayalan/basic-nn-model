@@ -170,12 +170,14 @@ loss_df.plot()
 
 ### Test Data Root Mean Squared Error
 
-![image](https://github.com/Revathi-Dayalan/basic-nn-model/assets/96000574/79495b03-a7e5-4546-a021-e166cba4ae36)
+![image](https://github.com/Revathi-Dayalan/basic-nn-model/assets/96000574/3dcd4488-feab-45a4-8df1-6f5e2da7be09)
+
 
 
 ### New Sample Data Prediction
 
-![image](https://github.com/Revathi-Dayalan/basic-nn-model/assets/96000574/fed93548-c1f5-4bf1-be5e-351d99367b2b)
+![image](https://github.com/Revathi-Dayalan/basic-nn-model/assets/96000574/058f986a-2312-4a01-9a4e-df5ff049000c)
+
 
 
 ## RESULT
