@@ -179,4 +179,4 @@ loss_df.plot()
 
 
 ## RESULT
-Henceforth, a basic neural regression model has been implemented
+Hence, a basic neural regression model has been implemented
